@@ -1,0 +1,2 @@
+merhaba,dünya
+bu bir deneme satiridir
